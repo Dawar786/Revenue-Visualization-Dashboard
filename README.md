@@ -3,6 +3,8 @@
 An interactive dashboard built with **Chart.js** to visualize key financial metrics such as **Revenue, Profit, and Expenses** across months.  
 This project demonstrates how data can be transformed into clear, insightful visualizations using modern web technologies.
 
+visit the webpage here : http://127.0.0.1:3000/index.html?vscode-livepreview=true
+
 ---
 
 ## 🔍 Features
